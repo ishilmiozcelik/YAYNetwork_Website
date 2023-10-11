@@ -7,10 +7,18 @@ background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/czesto.j
 }
 
 .fa-brands{
-margin-left: 10px;
+margin-left: 15px;
+
 }
 
 .blck-btn{
 color: #fff;
 background-color: black;
+padding: 10px;
 }
+
+.mainlogo, .left-menu{
+margin: auto;
+margin-left: 0;
+}
+
